@@ -6,7 +6,7 @@
                     <div class="col-md-2 col-3">
                         <img src="{{asset('frontend/img/logo.png')}}" alt="" height="30px"
                              style="object-fit: contain;margin-top:18px;filter: grayscale(1);">
-                    </div>
+                    </div>h
                     <div class="col-md-7 col-5 pt-2">
                         <nav class="navbar navbar-expand-lg navbar-light">
                             <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
