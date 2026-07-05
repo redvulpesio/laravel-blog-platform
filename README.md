@@ -1,4 +1,4 @@
-![redvulpes Texture](public/panel/assets/media/image/RedVulpesTypeStyle-white.png)
+![redvulpes Texture](public/panel/assets/media/image/RedVulpesTypeStyle-black.png)
 
 # Laravel Blog Platform
 
