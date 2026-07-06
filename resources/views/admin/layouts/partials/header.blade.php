@@ -91,6 +91,11 @@
                             </div>
                         </div>
                     </li>
+                    <li class="nav-item dropdown">
+                        <a href="{{route('home')}}" class="nav-link">
+                            <i class="ti-home"></i>
+                        </a>
+                    </li>
                 </ul>
                 <!-- end::navbar main body -->
 
